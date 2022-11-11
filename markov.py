@@ -1,6 +1,8 @@
 """A Markov chain generator that can tweet random messages."""
 
 import sys
+import os
+import discord
 from random import choice
 
 
